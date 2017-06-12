@@ -12,7 +12,7 @@
 - [wiener-linien](https://github.com/clops/wiener-linien) - Same thing, but written in PHP. Tracks changes to the data source
 - [ogd_realtime_status](https://github.com/kelvan/ogd_realtime_status) - Wiener Linien realtime API status page
 - [OGD-WLCC-Aufzugsinfo](https://github.com/dasjo/OGD-WLCC-Aufzugsinfo) - Matching static data about elevators in the Vienna public transport system with realtime outage data
-- [wlapimonitoring](Azure Mobile Services (node.js) - Project for Monitoring the Wiener Linien Realtime API) - Azure Mobile Services (node.js) Project for Monitoring the Wiener Linien Realtime API
+- [wlapimonitoring](https://github.com/christophwille/wlapimonitoring) - Azure Mobile Services (node.js) Project for Monitoring the Wiener Linien Realtime API
 - [IsochroneMap](https://github.com/rgiersig/IsochroneMap) - Draw an isochrone city map overlay using data from public transport authority
 - [NWWIMP](https://github.com/nitricware/NWWIMP) - Finding the closest Punschstand in Vienna
 
